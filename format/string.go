@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/fagongzi/util/hack"
+	"github.com/youngurchin/util/hack"
 )
 
 var (
